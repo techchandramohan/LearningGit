@@ -7,5 +7,6 @@ public class DevClass {
         System.out.println("Fixed Null Pointer error!");
         // Working onb branch two
         System.out.println("Welcome to Branch Two");
+        // I am planning to do some more change while merging in to Branch One.
     }
 }
