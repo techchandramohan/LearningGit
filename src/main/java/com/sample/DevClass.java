@@ -10,5 +10,6 @@ public class DevClass {
         // I am planning to do some more change while merging in to Branch One.
 
         // New changes related to user Story 1001
+        System.out.println("Hello User Story 1001!");
     }
 }
