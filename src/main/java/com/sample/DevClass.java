@@ -9,9 +9,5 @@ public class DevClass {
         System.out.println("Welcome to Branch Two");
         // I am planning to do some more change while merging in to Branch One.
 
-        // New changes related to user Story 1001
-        System.out.println("Hello User Story 1001!");
-        System.out.println("Hello User Story Updated in Online 1001!");
-        System.out.println("My user story update 1003 from IDE");
     }
 }
