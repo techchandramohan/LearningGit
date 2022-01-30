@@ -8,5 +8,7 @@ public class DevClass {
         // Working onb branch two
         System.out.println("Welcome to Branch Two");
         // I am planning to do some more change while merging in to Branch One.
+
+        // New changes related to user Story 1001
     }
 }
