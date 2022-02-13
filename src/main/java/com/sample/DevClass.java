@@ -15,6 +15,9 @@ public class DevClass {
 
         System.out.println("Git Reset - Change 03");
 
+        System.out.println("New User Story Changes - Story 1002");
+
+        System.out.println("Completed User Story 1002.");
 
     }
 }
